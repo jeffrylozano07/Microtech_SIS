@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="fpdf182">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/Microtech_Nube/sistema/factura/fpdf/fpdf182.zip!/" />
+      <root url="jar://$PROJECT_DIR$/sistema/factura/fpdf/fpdf182.zip!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
